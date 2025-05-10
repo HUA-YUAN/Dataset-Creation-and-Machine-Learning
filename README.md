@@ -19,13 +19,13 @@
 
 ### Step 1: [原始資料取得與讀取](src/原始資料取得與讀取.md)
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_Input_PreProcessing.py
 
 
 ### Step 2: [地震波偵測方法](src/地震波偵測方法.md)
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_Pwave_Arrive_Testing.py
 > 2. Dataset_PreProcessing.py
 
@@ -33,7 +33,7 @@
 ### Step 3: [訊號特徵提取](src/訊號特徵提取.md)
 
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_Input_PreProcessing.py
 > 2. Dataset_PreProcessing.py
 
@@ -45,7 +45,7 @@
 ### Step 4: [機器學習模型](src/機器學習模型.md)
 
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_RandomForest_Regressor.py
 > 2. Main_Control_RandomForest_Classifier.py
 > 3. RandomForest_Regressor.py
@@ -54,7 +54,7 @@
 ### Step 5: [交叉驗證方法](src/交叉驗證方法.md)
 
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_RandomForest_Regressor.py
 > 2. Main_Control_RandomForest_Classifier.py
 > 3. RandomForest_Regressor.py
@@ -64,7 +64,7 @@
 ### Step 6: [模型超參數調整](src/模型超參數調整.md)
 
 
-> 使用程式碼：  
+> 可參考程式碼：  
 > 1. Main_Control_RandomForest_Regressor.py
 > 2. Main_Control_RandomForest_Classifier.py
 > 3. RandomForest_Gridsearch.py
@@ -73,7 +73,7 @@
 ### Step 7: [模型結果分析](src/模型結果分析.md)
 
 
-> 使用程式碼：
+> 可參考程式碼：
 > 1. Main_Control_RandomForest_Regressor.py
 > 2. Main_Control_RandomForest_Classifier.py
 > 3. RandomForest_Regressor.py
