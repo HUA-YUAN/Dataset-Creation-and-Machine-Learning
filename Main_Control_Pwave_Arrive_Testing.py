@@ -11,7 +11,7 @@ import Dataset_PreProcessing
 
 if __name__ == '__main__':
     
-    dirPathPattern = r"D:\Desktop\中央大學\研究計畫資料\python_txt\test\*.txt" # 讀取地震資料 
+    dirPathPattern = r"D:\Desktop\研究計畫資料\test\*.txt" # 讀取地震資料 
     # 想查詢的資料夾位置 *.後為檔案類型
     result = glob.glob(dirPathPattern)
 
