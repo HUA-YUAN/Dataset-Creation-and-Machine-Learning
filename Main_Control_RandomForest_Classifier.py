@@ -16,7 +16,7 @@ import RandomForest_Gridsearch
 if __name__ == '__main__':
     
    # Calling the data
-   dataset = pd.read_csv("D:\Desktop\中央大學\研究計畫資料\python_txt\所有程式\資料集二特徵值C組.csv")
+   dataset = pd.read_csv("D:\Desktop\研究計畫資料\test\資料集二特徵值C組.csv")
 
    feature = "C"
    '''
